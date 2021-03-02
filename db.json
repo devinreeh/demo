@@ -21,9 +21,9 @@
     { "id": 19, "name": "Feed 19", "channel": { "id": 1, "name": "Xumo" }, "datetime_updated": "2021-03-01T16:18:46.647992"  },
     { "id": 20, "name": "Feed 20", "channel": { "id": 1, "name": "Xumo" }, "datetime_updated": "2021-03-01T16:18:46.647992"  }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "videos": [
+    { "id": 1, "title": "some comment", "description": 1 },
+    { "id": 2, "title": "some comment", "description": 1 }
   ],
   "profile": {
     "name": "typicode"
